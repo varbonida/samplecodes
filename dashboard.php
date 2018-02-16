@@ -7,8 +7,8 @@ Class Dashboard extends CI_Controller
 	var $reponse_message = "";
 	var $user_email = "";
 	var $emp_id = 0;
-  var $position = 0;
-  var $department = 0;
+	var $position = 0;
+	var $department = 0;
 
 	public function __construct()
 	{
